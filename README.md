@@ -1,8 +1,7 @@
 # 🛍️ Myntra Clone
 
 A **Myntra Homepage Clone** built using **HTML and CSS**.
-This project recreates the layout and design of the Myntra homepage to practice front-end development and UI structuring.
-
+This project recreates the layout and design of the Myntra homepage to practice front-end development and UI structuring. 
 ---
 
 ## 🌐 Live Demo
